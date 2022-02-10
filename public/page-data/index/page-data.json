@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"allWpPost":{"nodes":[{"title":"Hello world!","excerpt":"<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>\n","slug":"hello-world"},{"title":"Life Is Beautiful","excerpt":"<p>Life Is Beautiful&nbsp;(Italian:&nbsp;La vita è bella,&nbsp;Italian pronunciation:&nbsp;[la ˈviːta ˈɛ bˈbɛlla]) is a 1997 Italian&nbsp;comedy-drama&nbsp;film directed by and starring&nbsp;Roberto Benigni, who co-wrote the film with&nbsp;Vincenzo Cerami. Benigni plays Guido Orefice, a&nbsp;Jewish Italian&nbsp;bookshop owner, who employs his fertile imagination to shield his son from the horrors of internment in a&nbsp;Nazi concentration camp. The film was partially inspired [&hellip;]</p>\n","slug":"life-is-beautiful"}]}},"pageContext":{}},
+    "staticQueryHashes": []}
